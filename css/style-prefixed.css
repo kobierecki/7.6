@@ -2,6 +2,8 @@
   margin: 0; }
 
 .text {
+  display: -webkit-box;
+  display: -ms-flexbox;
   display: flex;
   position: relative;
   width: 100vw;
@@ -32,4 +34,4 @@ p {
   font-weight: 700;
   font-size: 17px; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style-prefixed.css.map */
